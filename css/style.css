@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+canvas {
+  float: left;
+}
+
+#log {
+  float: right;
+  margin: 0;
+}
+
+canvas, #log {
+  background-color: gray;
+  border: solid blue 1px;
+}
