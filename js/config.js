@@ -3,7 +3,7 @@ var NAME = 'CLOVER',
 
     BLOCK_SIZE = 50,
     AREA_SIZE = 10,
-    LEVEL_TIME = 5,
+    LEVEL_TIME = 10,
 
     // robot placement
     INITIAL_X = 1,
